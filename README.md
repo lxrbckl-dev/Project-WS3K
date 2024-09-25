@@ -1,4 +1,4 @@
-# Project WS3K
+# [Project WS3K](https://github.com/lxRbckl/Project-WS3K/wiki/V1)
 > Get alerted when a Discord user starts typing in a specific Discord channel. V1. Spring 2021.
 
 ---
